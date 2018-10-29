@@ -5,11 +5,11 @@ This component is part of the [Privacy Seed](https://privacy-seed.org/) project.
 
 ## Schema
 
-![Schema](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-board/doc/schematic.png)
+![Schema](doc/schematic.png)
 
 
 ## PCB
 
-![PCB](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-board/doc/pcb.png)
+![PCB](doc/pcb.png)
 
-![PCB](https://raw.githubusercontent.com/iliasbartolini/privacy-seed-heartrate-sensor-board/heartrate_sensor_board-F.Cu.svg)
+![PCB](heartrate_sensor_board-F.Cu.svg.png)
